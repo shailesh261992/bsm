@@ -1,2 +1,2 @@
 # bsm
-bsm repositor
+bsm repository used by shailesh kadam only
